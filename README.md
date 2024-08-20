@@ -1,5 +1,5 @@
-# AntiZapret-VPN
-# Fork from https://github.com/GubernievS/AntiZapret-VPN/tree/main
+# AntiZapret-VPN  
+Fork from https://github.com/GubernievS/AntiZapret-VPN/tree/main
 Скрипт для автоматического развертывания AntiZapret VPN **! ВЕРСИЯ БЕЗ КОНТЕЙНЕРА !**\
 \+ Разблокирован YouTube и часть сайтов блокируемых без решения суда
 
